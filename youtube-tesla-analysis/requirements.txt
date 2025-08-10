@@ -1,0 +1,9 @@
+collections
+datetime
+googleapiclient
+matplotlib
+pandas
+requests
+seaborn
+time
+yfinance
